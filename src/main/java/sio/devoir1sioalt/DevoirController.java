@@ -135,6 +135,7 @@ public class DevoirController implements Initializable {
 
             Random r = new Random();
 
+
             int nbOrdi1 = 1 + r.nextInt(6);
             int nbOrdi2 = 1 + r.nextInt(6);
             int nbJoueur1 = 1 + r.nextInt(6);
